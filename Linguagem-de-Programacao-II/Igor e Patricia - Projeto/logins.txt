@@ -1,3 +1,0 @@
-admin|admin|G
-vend|vend|V
-client|client|C
